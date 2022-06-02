@@ -1,4 +1,5 @@
 //Initial template for C++
+// height - largest path between root node and a leaf node
 
 #include <bits/stdc++.h>
 using namespace std;
