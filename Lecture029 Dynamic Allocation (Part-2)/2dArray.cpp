@@ -30,6 +30,13 @@ int main() {
         } cout << endl;
     }
 
+    // from 6 - 31 the if we take input 
+    // 3
+    // 1 2 3 4 5 6 7 8 9 
+    //  output :-
+    // 1 2 3
+    // 4 5 6
+    // 7 8 9
 
     //releasing memory
     for(int i=0; i<row; i++) {
