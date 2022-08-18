@@ -20,3 +20,5 @@ int main() {
 
     return 0;
 }
+
+// ***** MACRO  -  a piece of code in a program that is replaced by value of macro
